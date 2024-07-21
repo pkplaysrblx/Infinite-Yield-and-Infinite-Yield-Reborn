@@ -233,7 +233,7 @@ if os.date("*t", os.time()).month == 4 then
 	Title.Text = "Infinite Yiff UwU~ v"  .. currentVersion
 else
 	if string.find(currentVersion, '6.1') then
-		Title.Text = "Rise " .. currentVersion
+		Title.Text = "Inheritance V " .. currentVersion
 	else
 		Title.Text = "Infinite Yield Reborn v"  .. currentVersion
 	end
