@@ -13889,7 +13889,7 @@ task.spawn(function()
 	IntroBackground:Destroy()
 	minimizeHolder()
 	if IsOnMobile then
-		notify("Unstable Device", "On mobile, IYR Has a lot of bugs. Its recommended to use an pc executor (AN ACTUAL FULL UNC EXECUTOR NOT FAKED LIKE SOLARA).")
+		notify("Inheritance (IY/IYR) has loaded. Made by pkplaysrblx!")
 		if game.PlaceId == 574746640 then
 			task.wait(3)
 			notify("4nn1's Place","Game Detected! Some commands were added/changed/removed")
